@@ -65,19 +65,6 @@ export class CreateLocationsPage {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
      // async searchLocation(searchLocal:string) {
      //    await this.search.click()
      //     await this.search.fill(searchLocal)

@@ -40,10 +40,6 @@ export class SearchEditPage {
             //await this.page.reload();
 
 
-
-
-
-
             //
             // await this.page.waitForTimeout(3000)
             // console.log("ITEM WAS DELETED!")
